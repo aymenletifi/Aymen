@@ -25,7 +25,7 @@ Hi there, I'm **Aymen Letifi**, a **Software Engineering student** 🚀 from Tun
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via aymen.letifi@live.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
+
 
 
 **Languages and Tools:**  
