@@ -15,7 +15,7 @@
 
 Hi there, I'm **Aymen Letifi**, a **Software Engineering student** 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@aymenletifi](https://github.com/aymenletifi), and an Artificial Intelligence intern 👨🏽‍💼. 
 
-  <img align="right"  alt="GIF" src="https://minerve-tech.com/public/assets/images/feature-info/bigdata-img.gif" />
+  <img align="right"  alt="GIF" src="https://hackernoon.com/hn-images/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" />
 
 **Talking about Personal Stuff:**
 
