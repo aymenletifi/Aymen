@@ -13,16 +13,15 @@
 <br />
 <br />
 
-Hi there, I'm **Aymen Letifi**, a **Software Engineering student** 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@aymenletifi](https://github.com/aymenletifi), and an Artificial Intelligence intern 👨🏽‍💼. 
+Hi there, I'm **Aymen Letifi**, a **Software Engineer with Backend Focus** 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@aymenletifi](https://github.com/aymenletifi), and an Artificial Intelligence intern 👨🏽‍💼. 
 
   <img align="right"  alt="GIF" width="60%" src="https://hackernoon.com/hn-images/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" />
 
 **Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [ViaMobile](https://www.viamobile.tn/) working on Real-Time Data Reporting pipelines and financial fraud detection;
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Reinforcement Learning, automated Trading , AI applied in the finance field;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 👨🏽‍💻 I’m currently a backend engineer with [FRIDAY INSURANCE](https://www.friday.de) working on customer service automations using AI;
+- 🤔 My interests are with Software Architecture, Software Lifecycle, Devops, AI applied in the finance field;
+- 💼 I’m have a Master's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via aymen.letifi@live.com to reach me.
 
